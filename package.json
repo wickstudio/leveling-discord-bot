@@ -1,0 +1,16 @@
+{
+    "name": "discord-leveling-bot",
+    "version": "1.0.0",
+    "description": "A Discord bot with a leveling system for active members",
+    "main": "index.js",
+    "scripts": {
+        "start": "node index.js"
+    },
+    "author": "Wick",
+    "license": "MIT",
+    "dependencies": {
+        "discord.js": "^14.0.0",
+        "sqlite3": "^5.0.0",
+        "sqlite": "^5.0.0"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "token": "YOUR_BOT_TOKEN",
+    "levelUpChannelId": "CHANNEL_ID_FOR_LEVEL_UP_MESSAGES",
+    "levelRoles": {
+        "1": "ROLE_ID_FOR_LEVEL_1",
+        "2": "ROLE_ID_FOR_LEVEL_2"
+    }
+}
